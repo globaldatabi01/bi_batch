@@ -2,3 +2,6 @@ Person B has added this file
 Adding the right changes after removing the incorrect ones.
 This is good to be moved to central repo
 Adding new content
+
+New feature-branch is created and it is currently active
+Changes from feature-branch is merged into main.
