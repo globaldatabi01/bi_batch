@@ -1,2 +1,3 @@
 This is the first file that I created
 Changes from Person B
+Changes from Person C
